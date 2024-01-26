@@ -14,7 +14,7 @@ btn.addEventListener("submit", (event) => {
     let lat;
     let lon;
     let city = document.querySelector("input").value;
-    let url = `http://api.openweathermap.org/geo/1.0/direct?q=${city}&limit=1&appid=${API_key}`;
+    let url = `https://api.openweathermap.org/geo/1.0/direct?q=${city}&limit=1&appid=${API_key}`;
     document.querySelector(".show").innerHTML = "loading...";
 
     let lat_lon = async () => {
