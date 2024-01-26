@@ -1,6 +1,9 @@
 # Wheather-aap
 This is a simple weather app that allows users to check the current weather conditions for a specific location. The app provides real-time weather information, including temperature wind speed, and a brief forecast.
 
+# link click to see my project
+https://codescirahul.github.io/Wheather-aap/
+
 # Features
 Current Weather: Get up-to-date information on temperature, humidity, and wind speed.
 Location-based: Users can enter a location to view the weather details for that area.
